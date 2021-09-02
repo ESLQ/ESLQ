@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Eric
+- 👀 I’m interested in Software development, Android and iOS app development, video production/editing
+- 🌱 I’m currently learning computer science and business at the University of Maryland, College Park.
+- 💞️ I’m looking to collaborate on software development, apps, and content creation.
+- 📫 How to reach me - qian.eric123@gmail.com
